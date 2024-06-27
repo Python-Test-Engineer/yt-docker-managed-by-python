@@ -4,6 +4,7 @@ https://docker-py.readthedocs.io/en/stable/
 
 https://github.com/gabrieldemarmiesse/python-on-whales
 
+https://earthly.dev/blog/yaml-in-python/ 
 
 ## Docker Postgres Setup
 
